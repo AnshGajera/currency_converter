@@ -67,10 +67,11 @@ Click "Clear All" to reset the input and clear the history.
 Click "Theme" to switch between light and dark modes.
 
 Screenshots:
-![image](https://github.com/user-attachme![image](https://github.com/user-attachments/assets/0523ba9f-b740-4adb-9234-c112caae35fe)
-nts/assets/70363128-7b80-48c4-974c-2c86c261b4e4)
+![Screenshot 2025-06-04 120923](https://github.com/user-attachments/assets/75f59243-9cc6-4ae9-bc8a-4cab235ea5d8)
 
-![Uploading image.png…]()
+![Screenshot 2025-06-04 120941](https://github.com/user-attachments/assets/1d4bcaf6-88ff-4024-aacc-dcb9165c7701)
+
+
 
 Future Enhancements:
 Integrate with a real-time exchange rate API (e.g., ExchangeRate-API, FreeCurrencyAPI) to get up-to-date rates.
